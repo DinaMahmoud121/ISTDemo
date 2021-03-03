@@ -1,0 +1,11 @@
+Question 2 :
+-----------------
+
+x = 3
+y = 3
+
+2 for loops to drow matrix
+
+check for 1 and get i and j
+
+int moves = (i - x) + (j - y)
